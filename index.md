@@ -13,4 +13,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [GitHub](
 
 If you're looking for my Photography Portfolio, [it's here!](https://portfolio.ghaliomar.com)
 
-If you'd like a copy of my CV, [you can find it here.](/media/CV.pd)
+If you'd like a copy of my CV, [you can find it here.](/media/CV.pdf)
