@@ -12,3 +12,5 @@ All my research has been done with the [SEES Lab](https://sees-usf.github.io/) w
 You can find me on [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [GitHub](https://github.com/ghaliomar), and [Google Scholar](https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en).
 
 If you're looking for my Photography Portfolio, [it's here!](https://portfolio.ghaliomar.com)
+
+If you'd like a copy of my CV, [you can find it here.](/media/CV.pd)
