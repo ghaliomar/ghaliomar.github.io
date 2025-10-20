@@ -2,8 +2,8 @@
 layout: default
 ---
 # Ghali Omar Boutaib
-_ghaliomar@usf.edu_
-Bellini College of Artificial Intelligence, Cybersecurity and Computing
+_ghaliomar@usf.edu_  
+Bellini College of Artificial Intelligence, Cybersecurity and Computing  
 University of South Florida
 
 ---
