@@ -2,6 +2,12 @@
 layout: default
 ---
 # Ghali Omar Boutaib
+_ghaliomar@usf.edu_
+Bellini College of Artificial Intelligence, Cybersecurity and Computing
+University of South Florida
+
+---
+
 Hi! I'm Omar.
 
 I'm an Undergraduate Student and a researcher in Computer Engineering at the University of South Florida.
