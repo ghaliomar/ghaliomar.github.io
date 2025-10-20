@@ -6,9 +6,9 @@ _ghaliomar@usf.edu_
 [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx)  
 [University of South Florida](https://www.usf.edu/)  
 
-4202 East Fowler Avenue, ENB 249A
-SEES Lab
-Tampa, FL 33620
+4202 East Fowler Avenue, ENB 249A  
+SEES Lab  
+Tampa, FL 33620  
 
 ---
 
