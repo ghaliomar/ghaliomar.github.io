@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Ghali Omar Boutaib
+# Omar Boutaib
 _ghaliomar (at) nyu (dot) edu_
 
 ---
