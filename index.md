@@ -4,9 +4,9 @@ layout: default
 # Omar Boutaib
 _ghaliomar (at) nyu (dot) edu_
 
-NYU TANDON ECE DEPT 
-370 JAY ST FL 10 
-BROOKLYN NY 11201 
+NYU TANDON ECE DEPT  
+370 JAY ST FL 10  
+BROOKLYN NY 11201  
 
 ---
 
