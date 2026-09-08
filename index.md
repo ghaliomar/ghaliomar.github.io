@@ -4,13 +4,15 @@ layout: default
 # Omar Boutaib
 _ghaliomar (at) nyu (dot) edu_
 
+NYU TANDON ECE DEPT 
+370 JAY ST FL 10 
+BROOKLYN NY 11201 
+
 ---
 
-Hi! I'm Omar.
+Hi! I'm Omar. I'm a Ph.D. student at New York University's Tandon School of Engineering.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [GitHub](https://github.com/ghaliomar), and [Google Scholar](https://scholar.google.com/citations?hl=en&user=fmX-9MUAAAAJ).
-
-If you're looking for my Photography Portfolio, [it's here!](https://portfolio.ghaliomar.com)
 
 If you'd like a copy of my CV, [you can find it here.](/media/CV.pdf)
 
