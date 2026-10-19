@@ -6,15 +6,15 @@ _ghaliomar (at) nyu (dot) edu_
 
 NYU TANDON ECE DEPT  
 370 JAY ST FL 10  
-BROOKLYN NY 11201  
+BROOKLYN NY 11201-3828  
 
 ---
 
 Hi! I'm Omar. I'm a Ph.D. student at New York University's Tandon School of Engineering.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [GitHub](https://github.com/ghaliomar), and [Google Scholar](https://scholar.google.com/citations?hl=en&user=fmX-9MUAAAAJ).
+I work under [Dr. Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri) in the Electrical and Computer Engineering Department. My research topics are Electronic Design Automation, Formal Verification, and Artificial Intelligence.
 
-If you'd like a copy of my CV, [you can find it here.](/media/CV.pdf)
+You can find me on [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [GitHub](https://github.com/ghaliomar), and [Google Scholar](https://scholar.google.com/citations?hl=en&user=fmX-9MUAAAAJ).
 
 ---
 
