@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Security contact for ghaliomar.com (RFC 9116)
+# This file is signed with the OpenPGP key below.
+
+Contact: mailto:ghaliomar@ghaliomar.com
+Expires: 2027-11-01T00:00:00Z
+Encryption: https://ghaliomar.com/pgp.asc
+Encryption: openpgp4fpr:0D6F48CA866EA067AE9ACA6E95F299E444934818
+Preferred-Languages: en
+Canonical: https://ghaliomar.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQR6xIutQDkrGjF1QV3TPDQYs5wX6wUCaulWExsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQ0zw0GLOcF+sOvQD/bAvh//avu88s/eP9bcfB
+lGJkYipomoPPN5LDeB/RgHoBAKEsj9ctLdVi0f0wV6lSFrDVeQ3nJlSKcqLQJ7JY
+PS8D
+=CcQI
+-----END PGP SIGNATURE-----
