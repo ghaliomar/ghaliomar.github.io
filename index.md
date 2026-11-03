@@ -31,3 +31,15 @@ Contributors: Bardia Nadimi; Ghali Omar Boutaib; Hao Zheng
 2025 | Preprint  
 DOI: [10.48550/ARXIV.2503.16514](https://doi.org/10.48550/ARXIV.2503.16514)  
 Contributors: Bardia Nadimi; Ghali Omar Boutaib; Hao Zheng  
+
+---
+
+## PGP
+
+Fingerprint: `0D6F 48CA 866E A067 AE9A  CA6E 95F2 99E4 4493 4818`
+[Download key](/pgp.asc) · [Keyoxide profile](https://keyoxide.org/0D6F48CA866EA067AE9ACA6E95F299E444934818)
+
+<details>
+<summary>Show public key</summary>
+<pre>{% include_relative pgp.asc %}</pre>
+</details>
