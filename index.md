@@ -2,7 +2,7 @@
 layout: default
 ---
 # Omar Boutaib
-_ghaliomar (at) nyu (dot) edu_ 
+_ghaliomar (at) nyu (dot) edu_  
 _ghaliomar (at) ghaliomar (dot) com_
 
 NYU TANDON ECE DEPT  
